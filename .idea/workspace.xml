@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bea4cc8-c9ce-412c-b827-98a6dee2ba4a" name="Default" comment="" />
+    <list default="true" id="3bea4cc8-c9ce-412c-b827-98a6dee2ba4a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evidencias/teste_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/evidencias/teste_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/evidencias/teste_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/evidencias/teste_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FormularioTrianguloTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FormularioTrianguloTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/suporte/Generator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/suporte/Screenshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/Screenshot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FormularioTrianguloTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/FormularioTrianguloTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/suporte/Generator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/suporte/Screenshot.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,23 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Generator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/suporte/Generator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FormularioTrianguloTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/FormularioTrianguloTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="489">
-              <caret line="81" selection-start-line="81" selection-end-line="81" />
+            <state relative-caret-position="183">
+              <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -54,14 +54,17 @@
       <replace>DEZ</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/suporte/Generator.java" />
-        <option value="$PROJECT_DIR$/src/test/java/suporte/Screenshot.java" />
         <option value="$PROJECT_DIR$/src/test/java/FormulárioTriangulo.java" />
         <option value="$PROJECT_DIR$/src/test/java/FormulárioTrianguloTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/suporte/Generator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/suporte/Screenshot.java" />
         <option value="$PROJECT_DIR$/src/test/java/FormularioTrianguloTest.java" />
       </list>
     </option>
@@ -79,6 +82,7 @@
     <option name="width" value="974" />
     <option name="height" value="1057" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -111,6 +115,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testePortoTech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testePortoTech" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -231,35 +243,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FormulárioTriangulo - 2018.06.24 at 19h 40m 25s.xml">
-      <configuration name="FormulárioTriangulo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FormulárioTriangulo - 2018.06.24 at 19h 40m 59s.xml">
-      <configuration name="FormulárioTriangulo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FormulárioTriangulo - 2018.06.24 at 19h 41m 35s.xml">
-      <configuration name="FormulárioTriangulo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FormulárioTriangulo - 2018.06.24 at 19h 42m 50s.xml">
-      <configuration name="FormulárioTriangulo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FormulárioTriangulo - 2018.06.24 at 19h 45m 20s.xml">
-      <configuration name="FormulárioTriangulo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FormulárioTriangulo - 2018.06.24 at 19h 46m 10s.xml">
-      <configuration name="FormulárioTriangulo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FormulárioTriangulo - 2018.06.24 at 19h 49m 41s.xml">
-      <configuration name="FormulárioTriangulo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FormulárioTriangulo - 2018.06.24 at 19h 51m 33s.xml">
-      <configuration name="FormulárioTriangulo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FormulárioTriangulo - 2018.06.24 at 19h 52m 44s.xml">
-      <configuration name="FormulárioTriangulo" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FormulárioTriangulo - 2018.06.24 at 19h 56m 14s.xml">
       <configuration name="FormulárioTriangulo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FormularioTrianguloTest - 2018.06.24 at 20h 00m 24s.xml">
+      <configuration name="FormularioTrianguloTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FormularioTrianguloTest - 2018.06.24 at 20h 07m 05s.xml">
+      <configuration name="FormularioTrianguloTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FormularioTrianguloTest - 2018.06.24 at 20h 08m 10s.xml">
+      <configuration name="FormularioTrianguloTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FormularioTrianguloTest - 2018.06.24 at 20h 08m 39s.xml">
+      <configuration name="FormularioTrianguloTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FormularioTrianguloTest - 2018.06.24 at 20h 10m 07s.xml">
+      <configuration name="FormularioTrianguloTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FormularioTrianguloTest - 2018.06.24 at 20h 10m 34s.xml">
+      <configuration name="FormularioTrianguloTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FormularioTrianguloTest - 2018.06.24 at 20h 14m 29s.xml">
+      <configuration name="FormularioTrianguloTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FormularioTrianguloTest - 2018.06.24 at 20h 20m 21s.xml">
+      <configuration name="FormularioTrianguloTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FormularioTrianguloTest - 2018.06.24 at 20h 20m 56s.xml">
+      <configuration name="FormularioTrianguloTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -275,7 +287,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3297414" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
@@ -310,20 +322,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/suporte/Screenshot.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/suporte/Generator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="102">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/suporte/Generator.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/utils/Screenshot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -332,8 +344,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/FormularioTrianguloTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        <state relative-caret-position="183">
+          <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
